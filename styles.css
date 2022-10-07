@@ -1,0 +1,47 @@
+/* @import url('https://fonts.googleapis.com/css?family=Raleway:300,400');
+body {
+    background: #2D3142;
+    font-family: 'Raleway', sans-serif;
+}; */
+/* Heading */
+
+.container    { 
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  /* width:600px;  */
+  /* margin:30px auto 0;  */
+  display:block; 
+  background:#FFF;
+  /* padding:10px 50px 50px; */
+  text-align: center;
+
+}
+input[type="number"]    {
+  font: 15px/24px 'Muli', sans-serif;
+  color: #333; 
+  width: 36%;
+  box-sizing: border-box;
+  letter-spacing: 1px;
+}
+
+:focus{outline: none;}
+.input{border: 0; padding: 7px 0; border-bottom: 1px solid #ccc;}
+/* .input ~ .focus-border{position: absolute; bottom: 0; left: 0; width: 0; height: 2px; background-color: #4caf50; transition: 0.4s;}
+.input :focus ~ .focus-border{width: 100%; transition: 0.4s;} */
+
+.generate    {
+  background-color: #f44336;
+  border: none;color: white;
+  padding: 10px 24px;
+  text-align: center;text-decoration: none;display: inline-block;
+  font-size: 13px;border-radius: 12px;
+  width: 36%;
+}
+.Litter   {
+  background-color: #f44336; 
+  border:none;color: white;
+  margin: 10px;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;display: inline-block;
+  font-size: 13px;border-radius: 12px;
+}
